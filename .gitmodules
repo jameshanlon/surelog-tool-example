@@ -1,0 +1,3 @@
+[submodule "thirdparty/SureLog"]
+	path = thirdparty/SureLog
+	url = https://github.com/chipsalliance/Surelog.git
