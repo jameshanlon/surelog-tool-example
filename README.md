@@ -1,4 +1,4 @@
-# Verilog Netlist
+# SureLog tool example 
 
 ## Buld dependencies
 
@@ -6,7 +6,7 @@
 
 ```bash
 git clone ...
-cd verilog-netlist
+cd surelog-tool-example 
 git submodule update --init --recursive
 mkdir Build
 cd Build

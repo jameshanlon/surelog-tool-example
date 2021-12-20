@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.21.0)
-project(verilog-netlist)
+project(surelog-tool-example)
 include(ExternalProject)
 include(GNUInstallDirs)
 
